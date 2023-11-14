@@ -1,20 +1,31 @@
 // Defina suas perguntas e respostas aqui
 const questions = [
     {
-        question: 'Qual é a capital do Brasil?',
-        options: ['Rio de Janeiro', 'Brasília', 'São Paulo', 'Salvador'],
-        correctAnswer: 'Brasília'
+        question: 'Quantos anos eu tenho?',
+        options: ['18', '17', '16', '21'],
+        correctAnswer: '18'
     },
     {
-        question: 'Quantos planetas existem em nosso sistema solar?',
-        options: ['7', '8', '9', '10'],
-        correctAnswer: '8'
+        question: 'Qual meu nome todo?',
+        options: ['Carlos Augusto Horta Souza', 'Carlos Augusto H. B. C. Souza', 'Carlos Augusto H. B. C. de Moraes', 'Carlos Moraes'],
+        correctAnswer: 'Carlos Augusto H. B. C. de Moraes'
     },
     {
-        question: 'Quem escreveu "Dom Quixote"?',
-        options: ['William Shakespeare', 'Miguel de Cervantes', 'Jane Austen', 'Charles Dickens'],
-        correctAnswer: 'Miguel de Cervantes'
+        question: 'Qual foi o priemiro titulo do fluminense q eu vi no estadio?',
+        options: ['Carioca 22', 'Quanabara 23', 'Carioca 23', 'Libertadores 23'],
+        correctAnswer: 'Quanabara 23'
+    },
+    {
+        question: 'Qual o nome do meu primeiro cachorro(a)?',
+        options: ['Bolota', 'Xerequinha', 'Shirra', 'Balloteli'],
+        correctAnswer: 'Balloteli'
+    },
+    {
+        question: 'Quando é meu aniversario',
+        options: ['29/07/05', '22/05/06', '30/06/05', '30/07/05'],
+        correctAnswer: '30/06/05'
     }
+
     // Adicione mais perguntas conforme necessário
 ];
 
